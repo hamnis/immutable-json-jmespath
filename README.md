@@ -2,7 +2,7 @@
 
 ## Status
 
- [![Maven Central](https://maven-badges.herokuapp.com/maven-central/net.hamnaberg.json/immutable-json/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.hamnaberg.json/immutable-json-jmespath)
+ [![Maven Central](https://maven-badges.herokuapp.com/maven-central/net.hamnaberg.json/immutable-json-jmespath/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.hamnaberg.json/immutable-json-jmespath)
  [![Build Status](https://travis-ci.org/hamnis/immutable-json-jmespath.png)](https://travis-ci.org/hamnis/immutable-json-jmespath)
  [![Gitter Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hamnis/immutable-json-jmespath)
 
