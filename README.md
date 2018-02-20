@@ -16,9 +16,7 @@ Are you using immutable-json-jmespath? Please consider opening a pull request to
 * Your Organization here
 
 ## Related projects
-
-* [Siren.java](https://github.com/arktekk/siren.java)
-* [Collection JSON (Java)](https://github.com/hamnis/json-collection)
+* Your project here
 
 # Usage 
 
